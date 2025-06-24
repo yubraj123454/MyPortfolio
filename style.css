@@ -1,0 +1,326 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+body{
+  background-color:black;
+}
+.header{
+
+ color: white;
+
+
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    margin-top: 10px;
+
+}
+.header h2{
+font-family: Corbel Light;
+color: aqua;
+margin-left:60px;
+}
+.nav{
+    margin-right: 4px;
+}
+
+.nav a{
+    
+text-decoration: none;
+margin-left: 25px;
+color: white;
+font-family:Corbel Light ;
+}
+.nav a:hover{
+color: aqua;
+}
+main{
+    margin-top: 100px;
+    margin-left: 200px;
+    color: white;
+}
+.hi{
+    display: flex;
+    justify-content: space-between;
+   
+
+}
+.hi h3{
+font-family: Calibri;
+font-size: x-large;
+padding-top: 40px;
+}
+.hi h1{
+padding-bottom: 7px;
+font-family: Calibri;
+font-size: 40px;
+}
+.hi h4{
+    padding-bottom: 35px;
+    font-family: Calibri;
+    font-size: 25px;
+}
+.hi p{
+    font-family: Corbel Light;
+}
+img{
+    height: 300px;
+    margin-right: 200px;
+    width: auto;
+}
+#hoi{
+    align-items: center;
+}
+.color{
+    color: aqua;
+}
+.article{
+    padding-top: 200px;
+}
+.i{
+    color: aqua;
+}
+.section{
+    padding-top: 200px;
+}
+.section h2{
+    font-family: Calibri;
+    font-size: 35px;
+}
+button{
+    background-color: aqua;
+    border: none ;
+   height: 30px;
+   width: 100px;
+    border-radius:15px ;
+    
+}
+.footer{
+  
+    background-color: #1a1a1a;
+    color:white;
+    padding-bottom: 150px;
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-around;
+
+}
+.section1{
+
+    margin-left: 70px;
+    padding-top:25px ;
+ 
+   
+}
+.section1 ul li{
+    list-style: none;
+}
+.footer h2{
+    color: aqua;
+}
+.footer a{
+    color: white;
+    text-decoration: none;
+}
+.footer  a:hover{
+    color: aqua;
+}
+/* About */
+#img{
+    border-radius: 60%;
+    height: 250px;
+    width: 300px;
+}
+main{
+    margin-top: 100px;
+    margin-left: 200px;
+    color: white;
+}
+.hey{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 170px;
+   
+
+}
+.hy h{
+font-family: Calibri;
+
+padding-top: 40px;
+}
+.hi h1{
+padding-bottom: 7px;
+font-family: Calibri;
+font-size: 40px;
+}
+.oo{
+    color: aqua;
+}
+#sec{
+  
+    padding-top:110px ;
+}
+#pic{ border-radius: 60%;
+    height: 250px;
+    width: 300px;
+    padding-top: 60px;
+}
+/* skill */
+ .container{
+    margin-left: -70px;
+    margin-bottom: 50px;
+    display: flex;
+ }
+ .container h2{
+    color: aqua;
+    font-size: 50px;
+ }
+ .container h3{
+    color: aqua;
+ }
+ .container img{
+
+height: 350px;
+margin-top: 50px;
+ }
+ .he {
+  margin-left: -70px;
+    margin-bottom: 50px;
+    display: flex;
+ }
+ .he h3{
+    color: aqua;
+ }
+ 
+ /* project */
+ *{
+    margin: 0;
+    padding: 0;
+    
+}
+body{
+  background-color:black;
+}
+.header{
+
+ color: white;
+
+
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    margin-top: 10px;
+
+}
+.header h2{
+font-family: Corbel Light;
+color: aqua;
+margin-left:60px;
+}
+.nav{
+    margin-right: 4px;
+}
+
+.nav a{
+    
+text-decoration: none;
+margin-left: 25px;
+color: white;
+font-family:Corbel Light ;
+}
+.nav a:hover{
+color: aqua;
+}
+main{
+    margin-top: 100px;
+    margin-left: 200px;
+    color: white;
+}
+.ii{
+    display: flex;
+}
+ .ii h2{
+   color: aqua; 
+   font-size: 50px;
+ }.ii h3{
+    color: aqua;
+ }
+ .ii{
+       margin-left: -70px;
+    margin-bottom: 50px;
+ }
+ #hawa{
+     border-radius: 60%;
+    height: 250px;
+    width: 300px;
+ }
+ .rr{
+    display: flex;
+   
+ }
+ .me{
+    margin-left: -70px;
+ }
+ .rr h3{
+    color: aqua;
+ }
+.footer h2{
+    color: aqua;
+}
+.footer a{
+    color: white;
+    text-decoration: none;
+}
+.footer  a:hover{
+    color: aqua;
+}
+/* contact */
+
+.contact h1 {
+text-align: center;
+padding-bottom: 200px;
+color: aqua;
+margin-right: 130px;
+
+}
+.contact section{
+    margin-bottom: 100px;
+
+   
+}
+.contact section h2{
+    color: aqua;
+}
+.contact form{
+    color:aqua;
+   background-color: rgb(18, 16, 16);
+  
+}
+.form{
+display: flex;
+justify-content: space-between;
+}
+.form form{
+    padding-left: 70px;
+    padding-bottom: 50px;
+    padding-right: -50px;
+    margin-right: 200px;
+   margin-bottom: 100px;
+   border-radius: 10px;
+   
+}
+.form form h1{
+    margin-bottom: -200px;
+}
+.inp{
+    height: 40px;
+    width: 300px;
+    border-radius: 10px;
+}
+#area{
+    height: 100px;
+    width: 300px;
+    border-radius: 5px;
+}
